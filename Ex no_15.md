@@ -62,7 +62,7 @@ int main()
 ```
 
 ## Output:
-<img width="372" height="289" alt="image" src="https://github.com/user-attachments/assets/e67d063a-9aa0-4cc9-929c-10cbcd431928" />
+<img width="795" height="173" alt="image" src="https://github.com/user-attachments/assets/b577992e-c5ae-4b5a-89c9-ad66af9000c2" />
 
 
 
